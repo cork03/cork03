@@ -21,7 +21,11 @@ githubプロフィールをご覧いただき、ありがとうございます�
 | Website | Link | Repository | Tech Stack |  
 |---|---|---|---|
 |  rememo(react)  |  [Link](https://cork03.github.io/rememo/#/rememo/main)   |  [repo](https://github.com/cork03/rememo)   |  react,express  |
+  ***
   
+  経歴
+  
+  約２年ほどアクロバット（宙返り）の教室でインストラクターをしていました！
 <!--
 **cork03/cork03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
